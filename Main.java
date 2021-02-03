@@ -65,8 +65,7 @@ public static void main(String args[]){
 
                     System.out.print ("\n Total de créditos ingresados hasta ahora:  " + contador1);
                     break;
-                    
-                    
+     
                     
             
                 case 3: 
@@ -118,4 +117,4 @@ public static void main(String args[]){
         
 
     }
-}
+} 
